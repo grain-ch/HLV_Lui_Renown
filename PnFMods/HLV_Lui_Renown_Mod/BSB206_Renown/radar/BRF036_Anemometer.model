@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/lods/BRF036_Anemometer_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/BRF036_Anemometer	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </BRF036_Anemometer.model>

@@ -34,10 +34,4 @@
 	<property>	g_detailScaleV
 		<Float>	8.0000	</Float>
 	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	250	</Int>
-	</property>
 </BGM009_15in42_MK1_skinned.mfm>

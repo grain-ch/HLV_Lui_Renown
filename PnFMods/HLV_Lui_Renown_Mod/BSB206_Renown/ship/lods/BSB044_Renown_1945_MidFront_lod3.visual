@@ -216,7 +216,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-1.0283 -0.7055 -2.3774	</min>
-		<max>	1.0283 2.8617 5.6777	</max>
+		<min>	-1.0278 -0.7051 -2.3762	</min>
+		<max>	1.0278 2.8603 5.6749	</max>
 	</boundingBox>
 </BSB044_Renown_1945_MidFront_lod3.visual>

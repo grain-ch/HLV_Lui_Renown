@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1470 0.0000 -0.1410	</min>
-		<max>	0.1416 0.1288 0.1184	</max>
+		<min>	-0.1469 0.0000 -0.1409	</min>
+		<max>	0.1415 0.1287 0.1183	</max>
 	</boundingBox>
 </BGA073_2_pdr_MkVIII_8barrel_dead_lod3.visual>

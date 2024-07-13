@@ -101,7 +101,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.7842 -0.6506 -8.0085	</min>
-		<max>	0.8456 0.7854 -4.2054	</max>
+		<min>	-0.7838 -0.6503 -8.0045	</min>
+		<max>	0.8452 0.7850 -4.2033	</max>
 	</boundingBox>
 </BSB044_Renown_1945_Stern_lod2.visual>

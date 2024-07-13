@@ -34,10 +34,4 @@
 	<property>	g_detailScaleV
 		<Float>	32.0000	</Float>
 	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	250	</Int>
-	</property>
 </BSB044_Renown_1945.mfm>

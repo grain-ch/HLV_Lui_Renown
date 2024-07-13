@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1659 0.0000 -0.0960	</min>
-		<max>	0.1659 0.2121 0.1029	</max>
+		<min>	-0.1658 0.0000 -0.0960	</min>
+		<max>	0.1658 0.2120 0.1028	</max>
 	</boundingBox>
 </BD059_HACS_MK_IV_RF15ft_lod2.visual>

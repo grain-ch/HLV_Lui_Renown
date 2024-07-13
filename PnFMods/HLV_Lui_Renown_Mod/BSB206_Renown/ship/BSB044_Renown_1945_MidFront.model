@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/ship/lods/BSB044_Renown_1945_MidFront_lod1	</parent>
 	<extent>	16.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/ship/BSB044_Renown_1945_MidFront	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </BSB044_Renown_1945_MidFront.model>

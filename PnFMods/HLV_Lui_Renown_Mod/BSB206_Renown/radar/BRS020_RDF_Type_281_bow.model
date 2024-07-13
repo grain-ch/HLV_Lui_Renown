@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/lods/BRS020_RDF_Type_281_bow_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/BRS020_RDF_Type_281_bow	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </BRS020_RDF_Type_281_bow.model>

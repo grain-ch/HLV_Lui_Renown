@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/aircraft/lods/BAB712_Short_Sunderland_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/aircraft/BAB712_Short_Sunderland	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </BAB712_Short_Sunderland.model>

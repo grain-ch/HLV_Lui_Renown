@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.3184 -0.0030 -0.4743	</min>
-		<max>	0.3184 0.2209 0.7330	</max>
+		<min>	-0.3183 -0.0030 -0.4740	</min>
+		<max>	0.3183 0.2208 0.7326	</max>
 	</boundingBox>
 </BGM009_15in42_MK1_dead.visual>
