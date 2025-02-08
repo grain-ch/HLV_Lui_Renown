@@ -1,7 +1,6 @@
 <BGS070_114mm_45_MKIII.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/lods/BGS070_114mm_45_MKIII_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/BGS070_114mm_45_MKIII	</nodefullVisual>
+	<visual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/BGS070_114mm_45_MKIII.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </BGS070_114mm_45_MKIII.model>

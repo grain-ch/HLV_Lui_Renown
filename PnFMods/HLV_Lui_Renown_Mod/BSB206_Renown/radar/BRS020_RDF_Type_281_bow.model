@@ -1,7 +1,8 @@
 <BRS020_RDF_Type_281_bow.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/lods/BRS020_RDF_Type_281_bow_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/BRS020_RDF_Type_281_bow	</nodefullVisual>
+	<visual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/radar/BRS020_RDF_Type_281_bow.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/BRS020_RDF_Type_281_bow/BRS020_RDF_Type_281_bow.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </BRS020_RDF_Type_281_bow.model>

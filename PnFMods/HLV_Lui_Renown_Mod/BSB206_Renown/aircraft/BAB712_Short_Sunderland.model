@@ -1,7 +1,6 @@
 <BAB712_Short_Sunderland.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/aircraft/lods/BAB712_Short_Sunderland_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/aircraft/BAB712_Short_Sunderland	</nodefullVisual>
+	<visual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/aircraft/BAB712_Short_Sunderland.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </BAB712_Short_Sunderland.model>

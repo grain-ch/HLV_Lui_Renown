@@ -1,8 +1,6 @@
 <CGT001_Invisible_TA.model>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/CGT001_Invisible_TA	</nodefullVisual>
-	<castsShadow>	true	</castsShadow>
-	<materialNames />
-	<extent>	1.0000	</extent>
+	<visual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/CGT001_Invisible_TA.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </CGT001_Invisible_TA.model>

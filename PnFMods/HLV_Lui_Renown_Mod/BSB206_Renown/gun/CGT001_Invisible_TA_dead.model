@@ -1,6 +1,6 @@
 <CGT001_Invisible_TA_dead.model>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/CGT001_Invisible_TA_dead	</nodefullVisual>
-	<castsShadow>	true	</castsShadow>
+	<visual>	PnFMods/HLV_Lui_Renown_Mod/BSB206_Renown/gun/CGT001_Invisible_TA_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </CGT001_Invisible_TA_dead.model>
